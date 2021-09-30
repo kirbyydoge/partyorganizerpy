@@ -1,5 +1,3 @@
-##### TEST
+##### PARTY ORGANIZER DISCORD BOT
 
-```c
-  TEST CODE BLOCK
-```
+Declare your API Tokens in a file called secrets.py then run the bot with `python bot.py` 
